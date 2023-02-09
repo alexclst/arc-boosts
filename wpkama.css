@@ -1,0 +1,17 @@
+#wpkama .middle {
+	margin-top: -15em;
+}
+
+#wpkama .pluginfo {
+	display: none;
+}
+
+#wpkama h1 {
+	color: purple;
+}
+
+@media screen and (min-width: 1020px) {
+	#wpkama .middle {
+		margin-top: -5em;
+	}
+}
