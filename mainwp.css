@@ -1,0 +1,18 @@
+.mainwp-ui.mainwp-custom-theme .ui.segment.mainwp-widget h2.ui.icon.header {
+	font-size: 10px;
+	color: gray;
+}
+
+h2.ui.icon.header i.icon {
+	color: gray;
+}
+
+[data-tooltip="Update all sites."]:not(.basic),
+[data-tooltip="Update WordPress Core files on all child sites."],
+[data-tooltip="Clicking this button will update WP Core files on All your websites."],
+[data-tooltip="Clicking this button will update all Plugins on All your websites."],
+[data-tooltip="Clicking this button will update all Themes on All your websites."],
+[data-tooltip="Clicking this buttin will resolve all detected security issue on all your child sites."],
+.mainwp-update-all-button {
+	display: none !important;
+}
